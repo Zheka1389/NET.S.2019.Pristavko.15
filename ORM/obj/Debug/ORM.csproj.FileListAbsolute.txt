@@ -1,0 +1,12 @@
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\bin\Debug\ORM.exe.config
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\bin\Debug\ORM.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\bin\Debug\ORM.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\bin\Debug\EntityFramework.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\bin\Debug\EntityFramework.xml
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\obj\Debug\ORM.csproj.CopyComplete
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\obj\Debug\ORM.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\obj\Debug\ORM.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\ORM\obj\Debug\ORM.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\obj\Debug\BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\BLL.Interface.exe.config
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\BLL.Interface.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\BLL.Interface.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\Ninject.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\Ninject.xml
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\obj\Debug\BLL.Interface.csproj.CopyComplete
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\obj\Debug\BLL.Interface.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\obj\Debug\BLL.Interface.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\EntityFramework.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\EntityFramework.xml
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\BLL.Interface\bin\Debug\EntityFramework.SqlServer.xml

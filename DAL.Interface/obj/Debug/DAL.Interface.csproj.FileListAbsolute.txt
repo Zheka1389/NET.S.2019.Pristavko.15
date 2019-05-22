@@ -1,0 +1,13 @@
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\DAL.Interface.exe.config
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\DAL.Interface.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\DAL.Interface.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\Ninject.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\Ninject.xml
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\obj\Debug\DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\obj\Debug\DAL.Interface.csproj.CopyComplete
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\obj\Debug\DAL.Interface.exe
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\obj\Debug\DAL.Interface.pdb
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\EntityFramework.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\EntityFramework.xml
+C:\Users\KDFX Team\source\repos\NET.S.2019.Pristavko.15\DAL.Interface\bin\Debug\EntityFramework.SqlServer.xml
